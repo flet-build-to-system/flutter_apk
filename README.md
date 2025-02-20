@@ -1,6 +1,6 @@
 # calculatur
 
-##Calcu
+## Calcu
 
 ## Template variables
 
